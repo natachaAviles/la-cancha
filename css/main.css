@@ -1,0 +1,69 @@
+/* Inserta tu CSS aqui */
+
+.contenedor {
+	width:867px;
+	height:477px;
+	background-color:#8cb27c;
+	margin:auto;
+	position:relative;
+
+}
+
+.interno {
+	width:827px;
+	height:442px;
+	border:1px solid white;
+	position:absolute;
+	top:17px;
+	left:19px;
+}
+
+.arco {
+	width:113px;
+	height:188px;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+	position:absolute;
+	top:115px;
+}
+
+.derecho {
+	right:0;
+	border-left:1px solid white;
+}
+
+.izquierdo {
+	border-right:1px solid white;
+}
+
+
+.circulo {
+	width: 193px;
+    height: 193px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border:1px solid white;
+    position:absolute;
+    left:315px;
+    bottom:140px;
+
+}
+
+.bola1 {
+	position:relative;
+	left:100px;
+	top:140px;
+}
+
+.bola2 {
+	position:relative;
+	left:400px;
+	top:74px;
+}
+
+.bola3 {
+	position:relative;
+	left:630px;
+	top:280px;
+}
